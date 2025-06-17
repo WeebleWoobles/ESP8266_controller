@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../GitHub/ecen361/ESP8266_controller"
+		},
+		{
+			"name": "ESP8266_control",
+			"path": ".."
+		}
+	],
+    "settings": {}
+}
